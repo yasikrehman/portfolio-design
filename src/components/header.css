@@ -1,0 +1,101 @@
+h1,h2,h3,h4,h5,h6,span{
+    font-family:'Prata'
+}
+
+.btn-warning {
+    font-family: 'Prata !important';
+    background-color: #fff;
+}
+
+p{
+    font-family:'Inter Thin';
+    color:#979899;
+    margin-top: 10px 0px;
+    font-weight: 500;
+}
+
+.heading {
+    margin-left: 50px;
+    display: flex;
+    font-family:'Inter'
+}
+
+.heading a{
+    text-align: center;
+    padding-left: 50px !important;
+    margin-top: 10px;
+    font-size:16px;
+    justify-items: center;
+    
+}
+
+.heading > p {
+    font-size:16px;
+}
+
+.heading button{
+    text-align: center;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    
+}
+
+.help-company {
+ margin-top: 30px !important;
+}
+
+.HeadingText {
+    width: 600px !important;
+}
+
+.HeadingText p{
+    font-size: 16px !important;
+    color: #8D8D8D;
+}
+
+.display-img {
+    margin-top: 50px !important;
+    margin-bottom: 50px !important;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-content: space-between;
+    justify-content: space-between;
+    align-items: flex-start;
+
+}
+
+.co-founder {
+    background-color: #2E3038 !important;
+    color:#fff;
+}
+
+.contentText {
+    margin-top: 50px !important;
+}
+
+.sitename::after {
+    font-weight: bold;
+	content: "-->";
+    padding-left:5px;
+}
+
+.last-grid {
+    padding-bottom: 60px;
+}
+
+.last-footer {
+    padding-top: 20px;
+}
+
+
+.social-links {
+    display: flex;
+
+}
+
+.social-links img{
+
+padding-left: 10px;
+}
